@@ -1,3 +1,6 @@
+<p><em>Este software é destribuído sob a licença MIT 2.0</em></p>
+<img alt="Loading" src="https://img.shields.io/github/followers/White-Blue1?style=social" display="inline-block"><img alt="Loading" src="https://img.shields.io/github/stars/White-Blue1?style=plastic" display="inline-block">
+
 <p align="center">
 <h2>Image-Downloader</h2>
 <span>Um simples programa em Python que permite você à baixar qualquer imagem da internet.</span>
@@ -11,7 +14,3 @@
 <img alt="Loading" src="https://img.shields.io/github/downloads/White-Blue1/Image-Downloader/total?style=plastic">
 <a href="https://white-blue1.github.io/website/">Visite meu site</a>
 </p>
-
-
-<p><em>Este software é destribuído sob a licença MIT 2.0</em></p>
-<img alt="Loading" src="https://img.shields.io/github/followers/White-Blue1?style=social" display="inline-block"><img alt="Loading" src="https://img.shields.io/github/stars/White-Blue1?style=plastic" display="inline-block">
