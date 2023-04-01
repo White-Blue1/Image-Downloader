@@ -10,6 +10,6 @@
 <p>Imagine a seguinte situação:</a><br/>
 <a>Você quer baixar uma revista de quadrinhos que são muitas imagens e não quer gastar tempo com isso</a><br/>
 <a>Este programa baixará automaticamente todas as imagens para você!</span><br/>
-<br/>
+<br/><hr>
 <a href="https://white-blue1.github.io/website/">Visite meu site</a>
 </p>
