@@ -1,0 +1,16 @@
+@font-face {
+    font-family: english-grotesque;
+    src: url(./fonts/english-grotesque_300.woff)
+  }
+  @font-face {
+    font-family: nimbus-sans;
+    src: url(./fonts/nimbus-sans_400.woff)
+  }
+
+  h1, h2 {
+    font-family: english-grotesque;
+  }
+
+  p, a, span {
+    font-family: nimbus-sans
+  }
