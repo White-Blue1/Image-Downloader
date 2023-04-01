@@ -12,5 +12,3 @@
 <p>Este programa baixará automaticamente todas as imagens para você!</p>
 <a href="https://white-blue1.github.io/website/">Visite meu site</a>
 </p>
-![IMG](https://img.shields.io/github/followers/White-Blue1?style=social)
-![IMG](https://img.shields.io/github/stars/White-Blue1?style=social)
