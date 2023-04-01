@@ -7,8 +7,8 @@
 <h2>Perguntas:</h2>
 <h3>Pra que serve esse programa sendo que basta eu clicar e salvar a imagem?</h3>
 <p>A resposta para isso é bem simples e direita, praticidade.</p>
-<p>Imagine a seguinte situação:</p>
-<p>Você quer baixar uma revista de quadrinhos que são muitas imagens e não quer gastar tempo com isso</p>
-<p>Este programa baixará automaticamente todas as imagens para você!</p>
+<p>Imagine a seguinte situação:</a>
+<a>Você quer baixar uma revista de quadrinhos que são muitas imagens e não quer gastar tempo com isso</a>
+<a>Este programa baixará automaticamente todas as imagens para você!</a>
 <a href="https://white-blue1.github.io/website/">Visite meu site</a>
 </p>
