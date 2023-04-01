@@ -48,7 +48,7 @@ def init():
     selector_name = input('Nome do elemento(classe/id):')
     print('\n')
     os.system('cls')
-    Output = criar_pasta_destino()
+    Output = Append_Directory()
     url = f'{url}'
     html = requests.get(url).content
     soup = BeautifulSoup(html, 'html.parser')
