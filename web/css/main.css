@@ -1,0 +1,179 @@
+@import url(./font.css);
+
+.body-main {
+    font: var(--main-font);
+    color-scheme: var(--page-color-scheme);
+    color: var(--text-color);
+    background-color: var(--background-default-color);
+}
+
+h2 {
+    font-size: 15px;
+}
+
+.landing-content .button {
+    background: #ff8d00;
+    border-radius: 15px;
+    border: none;
+    color: #fff;
+    padding: 0.5rem;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    transition: transform .5s;
+    box-shadow: 0px 0px 15px #ff8d00;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: inherit;
+    user-select: none;
+}
+
+.landing-content button:hover {
+    transform: scale(1.1);
+}
+
+.landing {
+    display: flex;
+    padding: 5vw;
+    box-shadow: 0 0 10px 0 var(--box-color);
+    align-items: center;
+    justify-content: center;
+}
+
+nav {
+    background: #0C0E13; 
+    padding-top: 20px; 
+    border-bottom: 1px solid rgba(125, 125, 125, 0.22);
+}
+
+.nav-links {
+    user-select: none;
+}
+
+footer {
+    background: var(--background-default-color);
+    color: var(--background-default-color);
+}
+
+.nav-container {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+:root {
+    --page-color-scheme: dark;
+    --text-color: #fff;
+    --main-font: ;
+    --background-default-color: #0E1015;
+    --box-color: #1b1f29;
+}
+
+.wrap {
+    display: flex;
+    padding: 1vw;
+    padding-left: 1em;
+    padding-top: 2em;
+    box-shadow: 0 0 10px 0 var(--box-color);
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5vw;
+    box-shadow: 0 0 10px 0 var(--box-color);
+}
+
+button.accordion {
+    color: #fff;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    font-size: 21px;
+    font-family: english-grotesque;
+    transition: 0.4s;
+    user-select: none;
+}
+
+
+
+.navlinks a, li {
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+.navlinks li, a {
+    text-decoration: none;
+}
+
+.navlinks a, li:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+#branding {
+    cursor: pointer;
+}
+
+#branding:hover {
+    opacity: 70%;
+}
+
+.navlinks a, li:hover {
+    text-decoration: underline;
+}
+
+#git-ic:hover {
+    opacity: 50%;
+    cursor: pointer;
+}
+
+svg {
+    display: inline-block;
+}
+
+div.panel {
+    padding: 0 18px;
+    display: none;
+}
+
+div.panel.show {
+    display: block;
+}
+
+div.panel {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 500px;
+}
+
+button.accordion:after {
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
