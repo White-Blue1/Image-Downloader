@@ -2,7 +2,7 @@
 ![IMG](https://img.shields.io/github/downloads/White-Blue1/Image-Downloader/total?style=plastic)
 <p><em>Este software é destribuído sob a licença MIT 2.0</em></p>
 ![IMG](https://img.shields.io/github/followers/White-Blue1?style=social)
-![IMG](https://img.shields.io/github/stars/White-Blue1?style=plastic)
+![IMG](https://img.shields.io/github/stars/White-Blue1?style=social)
 <p align="center">
 <h2>Image-Downloader</h2>
 <span>Um simples programa em Python que permite você à baixar qualquer imagem da internet.</span>
