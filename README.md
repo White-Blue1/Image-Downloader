@@ -14,5 +14,7 @@
 </p>
 <p align="center">
 <h2>Footer</h2>
+<ul align="center">
 <li><a href="https://white-blue1.github.io/website/">Visite meu site</a></li>
+</ul>
 </p>
