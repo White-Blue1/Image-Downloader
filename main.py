@@ -17,7 +17,7 @@ def seletor():
         print('[ERRO]: Elemento inválido. Por favor, digite "id" ou "class".\n')
         return selector()
     
-    return tipo_seletor
+    return type_selector
 
 def Append_Directory():
     i = 1
@@ -77,11 +77,11 @@ def init():
                 print(f'[ERRO]:{i}. O elemento selecionado não é uma imagem.')
                 continue
 
-            nome_arquivo, tipo_arquivo = os.path.splitext(os.path.basename(src))
+            name, tipo_arquivo = os.path.splitext(os.path.basename(src))
             imagem_pil = Image.open(response.raw)
             imagem_pil = imagem_pil.convert('RGB')
-            nome_arquivo = f'Imagem {i}.png'
-            imagem_pil.save(os.path.join(pasta_saida, nome_arquivo), 'PNG')
+            name = f'Imagem {i}.png'
+            imagem_pil.save(os.path.join(output, name), 'PNG')
 
         except Exception as e:
             print(f'\nNão foi possível baixar a imagem {i}: {e}')
