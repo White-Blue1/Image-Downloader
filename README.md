@@ -3,9 +3,9 @@
 <p><em>Este software é destribuído sob a licença MIT 2.0</em></p>
 <p align="center">
 <h2>Image-Downloader</h2>
-<span>Um simples programa em Python que permite você à baixar qualquer imagem da internet.</span>
+<span>Um simples programa em Python que permite você baixar qualquer imagem da internet.</span>
 <h2>Perguntas:</h2>
-<h3>Pra que serve esse programa sendo que basta eu clicar e salvar a imagem?</h3>
+<h3>Para que serve esse programa sendo que basta eu clicar e salvar a imagem?</h3>
 <p>A resposta para isso é bem simples e direta: praticidade.</p>
 <p>Imagine a seguinte situação:</a><br/>
 <a>Você quer baixar uma revista de quadrinhos que são muitas imagens e não quer gastar tempo com isso</a><br/>
