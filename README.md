@@ -10,7 +10,6 @@
 <img alt="Loading" src="https://img.shields.io/github/license/White-Blue1/Image-Downloader">
 <img alt="Loading" src="https://img.shields.io/github/downloads/White-Blue1/Image-Downloader/total">
 <p><em>Este software é destribuído sob a licença MIT 2.0</em></p>
-<img alt="Loading" src="https://img.shields.io/github/followers/White-Blue1?style=social">
-<img alt="Loading" src="https://img.shields.io/github/stars/White-Blue1?style=social">
+<img alt="Loading" src="https://img.shields.io/github/followers/White-Blue1?style=social" display="inline-block"><img alt="Loading" src="https://img.shields.io/github/stars/White-Blue1?style=social" display="inline-block">
 <a href="https://white-blue1.github.io/website/">Visite meu site</a>
 </p>
