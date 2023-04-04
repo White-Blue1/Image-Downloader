@@ -16,6 +16,6 @@
 <h2 align="left">Links</h2>
 <ul align="center">
 <li><a href="https://white-blue1.github.io/website/" align="center">Visite meu site</a></li>
-<li><a href="white-blue1.github.io/image-Downloader/web/" align="center">Site oficial do projeto</a></li>
+<li><a href="https://white-blue1.github.io/image-Downloader/web/" align="center">Site oficial do projeto</a></li>
 </ul>
 </p>
